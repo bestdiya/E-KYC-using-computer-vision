@@ -1,4 +1,4 @@
-# E-KYC-using-computer-vision
+# Project on Image processing and E-KYC-using-computer-vision
 
 🚀 Automated OCR for eKYC Documents using EasyOCR & OpenCV
 
